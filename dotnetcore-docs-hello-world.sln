@@ -15,6 +15,7 @@ Global
 		{E3FB5919-9B1B-4CF0-BABE-46C39D8751C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3FB5919-9B1B-4CF0-BABE-46C39D8751C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3FB5919-9B1B-4CF0-BABE-46C39D8751C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3FB5919-9B1B-4CF0-BABE-46C39D8751C3}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
